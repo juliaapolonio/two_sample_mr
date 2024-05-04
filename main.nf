@@ -33,4 +33,9 @@ workflow {
             reference
             )
 
+    COLOC (
+        reads,
+        outcome
+    )
+
 }
